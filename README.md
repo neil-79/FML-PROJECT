@@ -32,20 +32,6 @@ Metrics:
     Tuned hyperparameters efficiently for boosting algorithms.
 
 
-Regression Models
-              Model	    R² (Train)	R² (Test)	RMSE (Train)	RMSE (Test)
-  Linear Regression    	0.8290	    0.8292	  9.0358	    9.0564
-  Polynomial Regression	0.8428    	0.8421  	8.6646	    8.7082
-  Decision Tree	0.8699	0.8565	    7.8841	  8.3014
-Classification Models
-                Model	Precision	Recall	F1 Score
-  Logistic Regression	0.79	0.64	0.70
-  SVM                	0.81	0.69	0.74
-  Decision Tree	      0.84	0.71	0.77
-Ensemble Methods
-      Method	        Precision	Recall	F1 Score
-  Random Forest	      0.86	    0.69	  0.76
-  Gradient Boosting	  0.86	    0.70  	0.77
 
 
 Programming Language: Python
