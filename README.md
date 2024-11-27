@@ -16,6 +16,7 @@ These insights provide valuable guidance for music producers and industry profes
     Dataset: Features over 175,000 western songs from 1921–2020, and 45000 Hindi songs sourced from the Spotify Web API and Kaggle.
     Algorithms: Includes regression, classification, and ensemble methods (e.g., Decision Trees, Random Forests, Boosting).
     Outcome: Decision Tree-based algorithms performed competitively, with ensemble methods showing slight improvements in recall and F1 scores.
+    Best model: XGBoost gave the best accuracy with competetive recall and F1 scores
 
 
 Data Preprocessing:
